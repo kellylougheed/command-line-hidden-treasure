@@ -1,3 +1,3 @@
-Are you a huge fan of Star Wars?
+Did you know you can play games on the terminal?
 
-Type telnet towel.blinkenlights.nl followed by enter to watch an ASCII  text-based version of Star Wars Episode IV: A New Hope.
+In the terminal, type the command “emacs”. Then press the escape button on your keyboard. Then type the letter x. When the M-x prompt appears, type the name of the game you want to play, like “snake” or “pong”.
