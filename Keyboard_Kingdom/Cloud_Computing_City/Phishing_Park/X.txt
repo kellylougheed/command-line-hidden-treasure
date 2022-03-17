@@ -1,3 +1,1 @@
-Did you know you can play games on the terminal?
-
-In the terminal, type the command “emacs”. Then press the escape button on your keyboard. Then type the letter x. When the M-x prompt appears, type the name of the game you want to play, like “snake” or “pong”.
+Want to watch a movie in your terminal? Someone took the time to make an ASCII animation of a Star Wars movie! You can access it with this command: nc towel.blinkenlights.nl 23
